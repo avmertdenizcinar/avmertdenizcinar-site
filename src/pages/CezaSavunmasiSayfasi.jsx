@@ -1,0 +1,1 @@
+import React from 'react'; export default function CezaSavunmasiSayfasi() { return <div>Ceza Savunması Sayfası</div>; }

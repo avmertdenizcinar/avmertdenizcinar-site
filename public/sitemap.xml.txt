@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://avmertdenizcinar.com/</loc></url>
+  <url><loc>https://avmertdenizcinar.com/blog/bosanma-davasi-nasil-acilir</loc></url>
+  <url><loc>https://avmertdenizcinar.com/blog/icra-takibi-nasil-baslatilir</loc></url>
+  <url><loc>https://avmertdenizcinar.com/blog/kira-davasi-nasil-acilir</loc></url>
+  <url><loc>https://avmertdenizcinar.com/blog/ceza-sanigi-savunmasi-nasil-yapilir</loc></url>
+</urlset>
