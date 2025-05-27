@@ -1,0 +1,1 @@
+import React from 'react'; export default function BosanmaDavasiSayfasi() { return <div>Boşanma Davası Sayfası</div>; }

@@ -1,0 +1,1 @@
+import React from 'react'; export default function IcraTakibiSayfasi() { return <div>İcra Takibi Sayfası</div>; }

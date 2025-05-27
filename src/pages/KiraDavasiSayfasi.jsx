@@ -1,0 +1,1 @@
+import React from 'react'; export default function KiraDavasiSayfasi() { return <div>Kira Davası Sayfası</div>; }
